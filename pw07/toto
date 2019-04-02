@@ -1,0 +1,3 @@
+CHILD:: 10042 - id of child, 10041 - id of parent
+
+PARENT:: 10042 - child, 10041 - parent, child exited with status: 2
